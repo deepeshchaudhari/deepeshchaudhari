@@ -9,12 +9,11 @@
 <p align="center">I'm currently pursuing MTech in computer science from IITK.
 I currently passionate about Blockchain, Machine Learning and web-development.
 </p>
-### - 🔭 I’m currently working on ...
-### - 🦠 DETECTING MALICIOUS ACCOUNTS IN BITCOIN BLOCKCHAIN...
+<h2 align='left'> 🔭 I’m currently working on...</h2>
+<h2 align='left'> 🦠 DETECTING MALICIOUS ACCOUNTS IN BITCOIN BLOCKCHAIN...</h2>
 <p align='center'>
-Permissionless Blockchains are ever increasing temporal graphs that mainly involve transactions of crypto-currency. Our aim is to device a Machine Learning algorithm that detects malicious accounts within such permissionless blockchains and study the effect and applicability of features used across varied types of Blockchains such as Bitcoin and Ethereum.
+Permissionless Blockchains are ever increasing temporal graphs that mainly involve transactions of crypto-currency. Our aim is to device a Machine  Learning algorithm that detects malicious accounts within such permissionless blockchains and study the effect and applicability of features used across varied types of Blockchains such as Bitcoin and Ethereum.
 Doing research under the guidance of <strong><a href="http://www.google.com/search?q=Prof.+Sandeep+Shukla" target="_blank">Prof. Sandeep Shukla</a></strong>
-
 </p>
 <!--
 **deepeshchaudhari/deepeshchaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
