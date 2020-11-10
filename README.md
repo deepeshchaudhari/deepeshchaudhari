@@ -1,4 +1,4 @@
-### Hi! I'm Deepesh 👋
+### Hi! I'm Deepesh Chaudhari 👋
 
 <!--
 **deepeshchaudhari/deepeshchaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📫 Where to find me
+- [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/kavish218) 😏
+- [![Instagram](https://img.shields.io/badge/--instagram?label=Instageam&logo=Instagram&style=social)](https://www.instagram.com/kavi_agno3/) 😎
+- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](http://linkedin.com/in/KavishAgnihotri/) 👨💼
+- [![Twitter](https://img.shields.io/badge/--twitter?label=twitter&logo=twitter&style=social)](https://www.twitter.com/deepeshchaudh15/) 😎
+
+
