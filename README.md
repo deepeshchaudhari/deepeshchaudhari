@@ -2,7 +2,8 @@
 <p align='center'>
 <a href="https://www.instagram.com/ami_deepesh/" target='_blank'><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="http://linkedin.com/in/amideepesh/" target='_blank'><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="http://twitter.com/in/deepeshchaudh15/" target='_blank'><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
+<a href="http://twitter.com/deepeshchaudh15/" target='_blank'><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
+<a href="https://www.cse.iitk.ac.in/users/deepeshc/" target='_blank'><img height="30" src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/world-wide-web.png?raw=true"></a>
 </p>
 <!--
 **deepeshchaudhari/deepeshchaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
