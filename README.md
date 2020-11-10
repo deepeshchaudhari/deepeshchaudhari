@@ -16,13 +16,14 @@ Permissionless Blockchains are ever increasing temporal graphs that mainly invol
 Doing research under the guidance of <strong><a href="http://www.google.com/search?q=Prof.+Sandeep+Shukla" target="_blank">Prof. Sandeep Shukla</a></strong>
 </p>
 <center>
-		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/blockchain.png" height="10%" width="10%">
-		&nbsp;&nbsp;&nbsp;
-		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/blockchain_lock.png" height="10%" width="10%">
-		&nbsp;&nbsp;&nbsp;
-		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/deep-learning.png" height="10%" width="10%">
-		&nbsp;&nbsp;&nbsp;
-		<img src="images/bug.png" height="10%" width="10%">
+		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/blockchain.png" height="20" width="10%">
+		&nbsp;&nbsp;
+		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/blockchain_lock.png" height="20" width="10%">
+		&nbsp;&nbsp;
+		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/deep-learning.png" height="20" width="10%">
+		&nbsp;&nbsp;
+		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/bug.png" height="20" width="10%">
+		
 
 </center>
 <!--
