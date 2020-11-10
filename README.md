@@ -17,11 +17,11 @@ Doing research under the guidance of <strong><a href="http://www.google.com/sear
 </p>
 <center>
 		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/blockchain.png" height="10%" width="10%">
-		
+		&nbsp;
 		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/blockchain_lock.png" height="10%" width="10%">
-		
+		&nbsp;
 		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/deep-learning.png" height="10%" width="10%">
-		
+		&nbsp;
 		<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/bug.png" height="10%" width="10%">
 		
 
