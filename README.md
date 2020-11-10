@@ -14,8 +14,8 @@ I currently passionate about Blockchain, Machine Learning and web-development.
 Permissionless Blockchains are ever increasing temporal graphs that mainly involve transactions of crypto-currency. Our aim is to device a Machine  Learning algorithm that detects malicious accounts within such permissionless blockchains and study the effect and applicability of features used across varied types of Blockchains such as Bitcoin and Ethereum.<br>
 Doing research under the guidance of <strong><a href="http://www.google.com/search?q=Prof.+Sandeep+Shukla" target="_blank">Prof. Sandeep Shukla</a></strong> and <strong><a href="https://rachit.gitlab.io/"> Rachit Agarwal</a></strong>
 </br>
-<img src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/websnip.png">
 </p>
+<img align="center" src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/websnip.png">
 <!--
 **deepeshchaudhari/deepeshchaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
