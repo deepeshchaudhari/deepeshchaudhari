@@ -15,8 +15,8 @@ Permissionless Blockchains are ever increasing temporal graphs that mainly invol
 Doing research under the guidance of <strong><a href="http://www.google.com/search?q=Prof.+Sandeep+Shukla" target="_blank">Prof. Sandeep Shukla</a></strong> and <strong><a href="https://rachit.gitlab.io/"> Rachit Agarwal</a></strong>
 </br>
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/websnip.png" height="10%" width="10%">
+
+<img align="center" src="https://github.com/deepeshchaudhari/personal_portfolio/blob/master/images/websnip.png"> 
 <!--
 **deepeshchaudhari/deepeshchaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
