@@ -11,7 +11,7 @@
 <h4 align='left'>Currently working🔬 on detecting malicious👾 accounts in Bitcoin Blockchain...</h4>
 <p  align='justify'>
 Permissionless Blockchains are ever increasing temporal graphs that mainly involve transactions of crypto-currency. Our aim is to device a Machine  Learning algorithm that detects malicious accounts within such permissionless blockchains and study the effect and applicability of features used across varied types of Blockchains such as Bitcoin and Ethereum.<br>
-Doing research under the guidance of <strong><a href="http://www.google.com/search?q=Prof.+Sandeep+Shukla" target="_blank">Prof. Sandeep Shukla</a></strong> and <strong><a href="https://rachit.gitlab.io/"> Rachit Agarwal</a></strong>
+Doing research under the guidance of <strong><a href="http://www.google.com/search?q=Prof.+Sandeep+Shukla" target="_blank">Prof. Sandeep Shukla</a></strong> and <strong><a href="https://rachit.gitlab.io/">Dr. Rachit Agarwal</a></strong>
 </br>
 </p>
 
