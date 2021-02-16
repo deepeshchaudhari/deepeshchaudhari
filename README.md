@@ -15,7 +15,7 @@ Doing research under the guidance of <strong><a href="http://www.google.com/sear
 </br>
 </p>
 
-<img align="center" src="https://github.com/deepeshchaudhari/deepeshchaudhari.github.io/blob/master/images/websnip2.png"> 
+<img align="center" src="https://raw.githubusercontent.com/deepeshchaudhari/deepeshchaudhari.github.io/master/images/thesis_screen_shot.png"> 
 <!--
 **deepeshchaudhari/deepeshchaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
