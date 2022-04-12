@@ -10,8 +10,7 @@
 </p>
 <h4 align='left'>Publication : Towards Malicious👾 address identification in Bitcoin Blockchain 
 <a href="https://ieeexplore.ieee.org/document/9680530">
-  <i class="fa fa-link">
-  </i>
+<i class="fa fa-link fa-lg"></i>
 <a>
 </h4>
 <p  align='justify'>
