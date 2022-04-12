@@ -8,8 +8,7 @@
 <h2 align="center">Hi! I'm Deepesh Chaudhari 👋</h2>
 <p align="center">MTech in computer science from IITK, passionate about Blockchain, Machine Learning and Software development.
 </p>
-<h4 align='left'>Publication : Towards Malicious👾 address identification in Bitcoin Blockchain</h4>
-<a href="https://ieeexplore.ieee.org/document/9680530"><img height="30" src="https://raw.githubusercontent.com/deepeshchaudhari/deepeshchaudhari.github.io/master/images/world-wide-web.png"></a>
+<h4 align='left'>Publication : Towards Malicious👾 address identification in Bitcoin Blockchain</h4><a href="https://ieeexplore.ieee.org/document/9680530"><img height="15" src="https://raw.githubusercontent.com/deepeshchaudhari/deepeshchaudhari.github.io/master/images/world-wide-web.png"></a>
 <p  align='justify'>
 Permissionless Blockchains are ever increasing temporal graphs that mainly involve transactions of crypto-currency. Our aim is to device a Machine  Learning algorithm that detects malicious accounts within such permissionless blockchains and study the effect and applicability of features used across varied types of Blockchains such as Bitcoin and Ethereum.<br>
 Doing research under the guidance of <strong><a href="http://www.google.com/search?q=Prof.+Sandeep+Shukla" target="_blank">Prof. Sandeep Shukla</a></strong> and <strong><a href="https://rachit.gitlab.io/" target='_blank'>Dr. Rachit Agarwal</a></strong>
