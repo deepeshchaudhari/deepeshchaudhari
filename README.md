@@ -8,7 +8,7 @@
 <h2 align="center">Hi! I'm Deepesh Chaudhari 👋</h2>
 <p align="center">MTech in computer science from IITK, passionate about Blockchain, Machine Learning and Software development.
 </p>
-<h4 align='left'>Publication : Towards Malicious👾 address identification in Bitcoin Blockchain</h4
+<h4 align='left'>Publication : Towards Malicious👾 address identification in Bitcoin Blockchain</h4>
 <a href="https://ieeexplore.ieee.org/document/9680530">
               <i class="fa fa-link fa-lg"></i>
 <a>
