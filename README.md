@@ -10,14 +10,7 @@
 <p align="center">MTech in computer science from IITK, passionate about Blockchain, Machine Learning and Software development.
 </p>
 
-<h4 align='left'>Publication: Towards Malicious👾 address identification in Bitcoin Blockchain <a href="https://ieeexplore.ieee.org/document/9680530"><img height="15" src="https://raw.githubusercontent.com/deepeshchaudhari/deepeshchaudhari.github.io/master/images/world-wide-web.png"></a>
-</h4>
 
-<p  align='justify'>
-The temporal aspect of blockchain transactions enables us to study the address's behavior and detect if it is involved in any illicit activity. However, due to the concept of change addresses (used to thwart replay attacks), temporal aspects are not directly applicable in the Bitcoin blockchain. Several pre-processing steps should be performed before such temporal aspects are utilized. We identify that after applying change-address clustering, in Bitcoin, existing temporal features can be extracted and ML approaches can be applied. An analysis of results show that the behavior of addresses in Ethereum and Bitcoin is similar with respect to in-degree, out-degree and inter-event time. Further, we identify 3 suspects that showed malicious behavior across different temporal granularities. These suspects are not marked as malicious in Bitcoin.<br>
-Research done under the guidance of <strong><a href="http://www.google.com/search?q=Prof.+Sandeep+Shukla" target="_blank">Prof. Sandeep Shukla</a></strong> and <strong><a href="https://rachit.gitlab.io/" target='_blank'>Dr. Rachit Agarwal</a></strong>
-</br>
-</p>
 
 <img align="center" src="https://raw.githubusercontent.com/deepeshchaudhari/deepeshchaudhari.github.io/master/images/thesis_screen_shot.png"> 
 <!--
