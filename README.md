@@ -10,7 +10,7 @@
 <p align="center">MTech in computer science from IITK, passionate about Blockchain, Machine Learning and Software development.
 </p>
 
-<h4 align='left'>Publication : Towards Malicious👾 address identification in Bitcoin Blockchain <a href="https://ieeexplore.ieee.org/document/9680530"><img height="15" src="https://raw.githubusercontent.com/deepeshchaudhari/deepeshchaudhari.github.io/master/images/world-wide-web.png"></a>
+<h4 align='left'>Towards Malicious👾 address identification in Bitcoin Blockchain <a href="https://ieeexplore.ieee.org/document/9680530"><img height="15" src="https://raw.githubusercontent.com/deepeshchaudhari/deepeshchaudhari.github.io/master/images/world-wide-web.png"></a>
 </h4>
 
 <p  align='justify'>
