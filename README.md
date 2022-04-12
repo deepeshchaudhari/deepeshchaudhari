@@ -6,7 +6,7 @@
 <a href="https://www.cse.iitk.ac.in/users/deepeshc/" target='_blank'><img height="30" src="https://raw.githubusercontent.com/deepeshchaudhari/deepeshchaudhari.github.io/master/images/world-wide-web.png"></a>
 </p>
 <h2 align="center">Hi! I'm Deepesh Chaudhari 👋</h2>
-<p align="center">Pursuing MTech in computer science from IITK, passionate about Blockchain, Machine Learning and web-development.
+<p align="center">MTech in computer science from IITK, passionate about Blockchain, Machine Learning and Software development.
 </p>
 <h4 align='left'>Towards Malicious👾 address identification in Bitcoin Blockchain...</h4>
 <p  align='justify'>
