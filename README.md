@@ -3,7 +3,7 @@
 <h1>Deepesh Chaudhari</h1>
 
 <p>
-  <strong>Technical Lead (Crypto Forensics) @ C3iHub, IIT Kanpur &nbsp;|&nbsp; Founder & CEO @ BlockStash</strong><br/>
+  <strong>Founder & CEO @ BlockStash</strong><br/>
   Kanpur, Uttar Pradesh, India
 </p>
 
@@ -33,8 +33,7 @@
 
 I build tools that **follow the money on the blockchain**. As the founder of [BlockStash Intelligence](https://blockstash.in) — a Blockchain security startup incubated at FIRST, IIT Kanpur — and Technical Lead (Crypto Forensics) at [C3iHub](https://c3ihub.org), I develop real-time cryptocurrency investigation & surveillance solutions used by law enforcement agencies across India.
 
-- 🔭 Currently leading Crypto Forensics at **C3iHub, IIT Kanpur**
-- 🚀 Building **BlockStash Intelligence** — real-time crypto crime investigation & forensics
+- 🚀 Building **BlockStash Intelligence** — The Intelligence Layer for the Digital Economy
 - 🤝 Collaborated with **FIU-India, Intelligence Bureau, Income Tax, Enforcement Directorate, NIA, I4C, CID**, West Bengal Police, Telangana State Police & National Police Academy
 - 📄 Published IEEE research on **malicious Bitcoin address identification** & address clustering
 - 🎓 **MTech, Computer Science** from **IIT Kanpur**
@@ -45,9 +44,9 @@ I build tools that **follow the money on the blockchain**. As the founder of [Bl
 
 | Role | Organization | Duration |
 |------|-------------|----------|
-| **Technical Lead (Crypto Forensics)** | C3iHub, IIT Kanpur | Jan 2025 – Present |
-| **Senior Project Executive Engineer** | C3iHub, IIT Kanpur | Feb 2024 – Jan 2025 |
 | **Founder & CEO** | BlockStash Intelligence | Oct 2022 – Present |
+| **Technical Lead (Crypto Forensics)** | C3iHub, IIT Kanpur | Jan 2025 – July 2026 |
+| **Senior Project Executive Engineer** | C3iHub, IIT Kanpur | Feb 2024 – Jan 2025 |
 | **Sr. Project Executive Engineer** | IIT Kanpur | Sep 2021 – Feb 2024 |
 | **Sr. Student Research Associate** | National Blockchain Project, IIT Kanpur | Jan 2021 – Jul 2021 |
 | **Teaching Assistant** | IIT Kanpur | Jul 2019 – Jan 2021 |
