@@ -4,7 +4,6 @@
 
 <p>
   <strong>Founder & CEO @ BlockStash</strong><br/>
-  Kanpur, Uttar Pradesh, India
 </p>
 
 <p>
@@ -90,6 +89,8 @@ As a founder of [BlockStash Intelligence](https://blockstash.in), AI-first cyber
   D. Chaudhari, R. Agarwal, and S. K. Shukla — *IEEE International Conference on Blockchain (Blockchain 2021)*, Melbourne, Australia, pp. 425–432. [DOI: 10.1109/Blockchain53845.2021.00066](https://doi.org/10.1109/Blockchain53845.2021.00066)
 
 - **Blockstash Intelligence: Real-time Crypto Crime Investigation and Forensics Tool**
+D. Chaudhari and S. Shukla, 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS), Berlin, Germany, 2024, pp. 1-3, [doi: 10.1109/BRAINS63024.2024.10732611](doi: 10.1109/BRAINS63024.2024.10732611)
+
 
 - **Optimizing Bitcoin Address Clustering and Uncovering New Insights**
 
@@ -140,15 +141,6 @@ As a founder of [BlockStash Intelligence](https://blockstash.in), AI-first cyber
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshchaudhari&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
-
----
-
-## Certifications
-
-- Certified in C++
-- Programming in C++ 
-- Python Programming
-- Programming in C
 
 ---
 
