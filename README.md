@@ -31,7 +31,7 @@
 
 ## About Me
 
-I build tools that **follow the money on the blockchain**. As the founder of [BlockStash Intelligence](https://blockstash.in) — a Blockchain security startup incubated at FIRST, IIT Kanpur — and Technical Lead (Crypto Forensics) at [C3iHub](https://c3ihub.org), I develop real-time cryptocurrency investigation & surveillance solutions used by law enforcement agencies across India.
+As a founder of [BlockStash Intelligence](https://blockstash.in), AI-first cybersecurity company, I am building the intelligence infrastructure for the digital world. We empower governments and enterprises with blockchain analytics, cyber intelligence, OSINT, threat intelligence, and digital risk management.
 
 - 🚀 Building **BlockStash Intelligence** — The Intelligence Layer for the Digital Economy
 - 🤝 Collaborated with **FIU-India, Intelligence Bureau, Income Tax, Enforcement Directorate, NIA, I4C, CID**, West Bengal Police, Telangana State Police & National Police Academy
